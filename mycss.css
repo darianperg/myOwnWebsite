@@ -1,0 +1,17 @@
+#mainOptions {
+    text-align: center;
+    color: coral;
+}
+
+div > p {
+    color: black;
+}
+
+#introTitle {
+    text-align: center;
+}
+
+img {
+    width:640px;
+    height:360px;
+  }
